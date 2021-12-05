@@ -271,3 +271,7 @@ y el de abajo el de `Anomalies Topic` (anomalías detectadas por el modelo de ma
 ### Una forma más abstracta de verlo
 
 ![Final Screen](./docs/finalScreen.png?style=centerme)
+
+### Visualización de la actividad de Kafka en grafana
+
+![Full Demo logs](./docs/grafana.gif)
